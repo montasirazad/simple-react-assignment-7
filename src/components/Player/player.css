@@ -1,0 +1,41 @@
+.player-container{
+     
+      background-color: #007aff;
+      border-radius:  10px; 
+      margin :30px;
+      padding :25px;
+      width:300px;
+      height:560px;
+      float:left;
+}
+
+.player-info{
+    margin-bottom: 60px;
+}
+
+.first-line {
+    color:  white;
+    font-size: 25px;
+}
+
+.second-line{
+    font-size: 15px;
+    color: white;
+    
+}
+ 
+
+.add-player {
+     
+    font-size: medium;
+    padding: 12px;
+    width: 200px;
+    background-color: rgb(218, 240, 27);
+    border: 2px solid rgb(80, 80, 252);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.add-player:hover{
+   background-color: rgb(243, 151, 13);
+}
